@@ -10,7 +10,7 @@ This project uses Logistic Regression to predict the price range of mobile phone
 
 ## Model
 - Algorithm: Logistic Regression
-- Accuracy: 91%
+- Accuracy: 0.965
 
 ## How to Run
 ```bash
